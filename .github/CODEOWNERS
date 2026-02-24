@@ -10,4 +10,4 @@
 # explicit write access to the repository. In this example,
 # the octocats team in the octo-org organization owns all .txt files.
 # *.txt @octo-org/octocats
-* @c40003141
+* @c40003141 @b1674927
